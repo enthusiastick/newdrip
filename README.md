@@ -27,9 +27,9 @@ Icon | Character | Text
 
 Icon | Character | Text
 --- | --- | ---
-![Ogre](https://wiki.bloodontheclocktower.com/images/2/25/Icon_ogre.png) | **Ogre** | On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.
 ![Sweetheart](https://wiki.bloodontheclocktower.com/images/6/6a/Icon_sweetheart.png) | **Sweetheart** | When you die, 1 player is drunk from now on.
 ![Lunatic](https://wiki.bloodontheclocktower.com/images/6/64/Icon_lunatic.png) | **Lunatic** | You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night.
+![Saint](https://wiki.bloodontheclocktower.com/images/c/c9/Icon_saint.png) | **Saint** | If you die by execution, your team loses.
 ![Hatter](https://wiki.bloodontheclocktower.com/images/4/44/Icon_hatter.png) | **Hatter** | If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be.
 
 ### Minion
